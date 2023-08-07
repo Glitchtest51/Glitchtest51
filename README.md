@@ -6,7 +6,7 @@
 
 <body>
   <div class="Main-Text">
-    <h1 class="main" id="main"></h1>
+    <h1 class="Name" id="Name"></h1>
     <span class="flashing-underscore">_</span>
   </div>
 
