@@ -2,9 +2,9 @@
 
 Im just some random dude who codes things sometimes
 
-# If you want to commission me send me a message on [Discord](https://discord.com/users/959674296693846046).
-
 ![Profile View counter](https://komarev.com/ghpvc/?username=glitchtest51&color=ff0000&style=for-the-badge)
+
+# If you want to commission me send me a message on [Discord](https://discord.com/users/959674296693846046).
 
 # I code with...
 
