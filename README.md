@@ -4,8 +4,6 @@ Im just some random dude who codes things sometimes
 
 ![Profile View counter](https://komarev.com/ghpvc/?username=glitchtest51&color=ff0000&style=for-the-badge)
 
-# If you want to commission me send me a message on [Discord](https://discord.com/users/959674296693846046).
-
 # I code with...
 
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
